@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDService", "CRUDService\CRUDService.csproj", "{B4D3DF85-ED21-4CB3-8081-995BC20F9352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventFlowService.Application", "EventFlow\EventFlowService.Application\EventFlowService.Application.csproj", "{CEFA27A2-C300-40F3-B455-6EBA0892DBF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventFlowService.Domain", "EventFlow\EventFlowService.Domain\EventFlowService.Domain.csproj", "{C47D844F-49E3-441F-A3B3-4364BF53661C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventFlowService.ReadModel", "EventFlow\EventFlowService.ReadModel\EventFlowService.ReadModel.csproj", "{79304C18-E77C-4041-BFFD-DA9D44896F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemTemplates", "ItemTemplates\ItemTemplates.csproj", "{D81EFA23-9047-4E32-B0B3-F74FB587A4CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDRabbitService", "CRUDRabbitService\CRUDRabbitService.csproj", "{BAA85E99-B3B0-407E-B50B-82F94396FD50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D3DF85-ED21-4CB3-8081-995BC20F9352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D3DF85-ED21-4CB3-8081-995BC20F9352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D3DF85-ED21-4CB3-8081-995BC20F9352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D3DF85-ED21-4CB3-8081-995BC20F9352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFA27A2-C300-40F3-B455-6EBA0892DBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFA27A2-C300-40F3-B455-6EBA0892DBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFA27A2-C300-40F3-B455-6EBA0892DBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFA27A2-C300-40F3-B455-6EBA0892DBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47D844F-49E3-441F-A3B3-4364BF53661C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47D844F-49E3-441F-A3B3-4364BF53661C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47D844F-49E3-441F-A3B3-4364BF53661C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47D844F-49E3-441F-A3B3-4364BF53661C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79304C18-E77C-4041-BFFD-DA9D44896F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79304C18-E77C-4041-BFFD-DA9D44896F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79304C18-E77C-4041-BFFD-DA9D44896F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79304C18-E77C-4041-BFFD-DA9D44896F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81EFA23-9047-4E32-B0B3-F74FB587A4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81EFA23-9047-4E32-B0B3-F74FB587A4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81EFA23-9047-4E32-B0B3-F74FB587A4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81EFA23-9047-4E32-B0B3-F74FB587A4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA85E99-B3B0-407E-B50B-82F94396FD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA85E99-B3B0-407E-B50B-82F94396FD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA85E99-B3B0-407E-B50B-82F94396FD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA85E99-B3B0-407E-B50B-82F94396FD50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDD3745-A136-4DF0-A4A9-35A5DDFAA9AE}
+	EndGlobalSection
+EndGlobal

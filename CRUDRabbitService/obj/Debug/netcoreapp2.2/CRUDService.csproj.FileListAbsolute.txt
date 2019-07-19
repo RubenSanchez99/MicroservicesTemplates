@@ -1,0 +1,14 @@
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\bin\Debug\netcoreapp2.2\CRUDService.deps.json
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\bin\Debug\netcoreapp2.2\CRUDService.runtimeconfig.json
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\bin\Debug\netcoreapp2.2\CRUDService.runtimeconfig.dev.json
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\bin\Debug\netcoreapp2.2\CRUDService.dll
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\bin\Debug\netcoreapp2.2\CRUDService.pdb
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.RazorAssemblyInfo.cache
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.RazorAssemblyInfo.cs
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.AssemblyInfoInputs.cache
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.AssemblyInfo.cs
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.RazorTargetAssemblyInfo.cache
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.dll
+C:\Users\Ruben\source\repos\MicroservicesTemplates\CRUDService\obj\Debug\netcoreapp2.2\CRUDService.pdb

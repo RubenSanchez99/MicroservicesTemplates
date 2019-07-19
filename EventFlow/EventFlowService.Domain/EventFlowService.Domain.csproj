@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include=".template.config\template.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EventFlow" Version="0.71.3834" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AggregatesModel\" />
+    <Folder Include="Events\" />
+    <Folder Include="ExecutionResults\" />
+  </ItemGroup>
+
+</Project>

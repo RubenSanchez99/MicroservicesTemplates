@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include=".template.config\template.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EventFlow" Version="0.71.3834" />
+    <PackageReference Include="EventFlow.EntityFramework" Version="0.71.3834" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Queries\" />
+    <Folder Include="ReadModelContext\EntityConfigurations\" />
+  </ItemGroup>
+
+</Project>

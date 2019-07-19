@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Rubén Sánchez",
+  "classifications": [ "Microservices", "Web" ],
+  "identity": "RubenSanchez.EventFlow",
+  "name": "EventFlow Microservice",
+  "shortName": "ef",
+  "sourceName": "EventFlowService.Application"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Rubén Sánchez",
+  "classifications": [ "Microservices", "Web" ],
+  "identity": "RubenSanchez.CRUD-MassTransit",
+  "name": "CRUD Microservice w/ MassTransit",
+  "shortName": "crudmt",
+  "sourceName": "CRUDRabbitService"
+}

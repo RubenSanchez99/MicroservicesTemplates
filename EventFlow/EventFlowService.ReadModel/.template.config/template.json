@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Rubén Sánchez",
+  "classifications": [ "Microservices", "Web" ],
+  "identity": "RubenSanchez.EventFlowReadModel",
+  "name": "EventFlow Read Model",
+  "shortName": "efrm",
+  "sourceName": "EventFlowService.ReadModel"
+}
